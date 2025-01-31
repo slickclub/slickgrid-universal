@@ -92,7 +92,7 @@
     "eslint-plugin-cypress": "^4.1.0",
     "eslint-plugin-n": "^17.15.1",
     "globals": "^15.14.0",
-    "happy-dom": "^16.7.2",
+    "happy-dom": "^16.8.1",
     "husky": "^9.1.7",
     "jsdom": "^26.0.0",
     "jsdom-global": "^3.0.2",
@@ -103,7 +103,7 @@
     "rxjs": "catalog:",
     "sortablejs": "catalog:",
     "typescript": "catalog:",
-    "typescript-eslint": "^8.21.0",
+    "typescript-eslint": "^8.22.0",
     "vitest": "^3.0.4",
     "whatwg-fetch": "catalog:"
   },
